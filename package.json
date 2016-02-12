@@ -1,0 +1,24 @@
+{
+  "name": "read-source-map",
+  "version": "0.0.1",
+  "description": "Translate a JS stack trace using a source map.",
+  "main": "index.js",
+  "dependencies": {
+    "source-map": "^0.5.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sourcemap",
+    "source",
+    "stacktrace",
+    "stack",
+    "crash",
+    "crashlytics",
+    "analyze",
+    "javascript"
+  ],
+  "author": "Lane Rettig <lanerettig@gmail.com> (http://github.com/lrettig)",
+  "license": "MIT"
+}
